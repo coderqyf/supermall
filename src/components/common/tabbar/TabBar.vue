@@ -20,6 +20,6 @@
     bottom: 0;
 
     box-shadow: 0px -1px 1px rgba(100,100,100,.5);
-    z-index: 9;
+    /*z-index: 9;*/
   }
 </style>

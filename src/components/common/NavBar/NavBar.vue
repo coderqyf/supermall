@@ -22,10 +22,10 @@
 }
   .left, .right {
     width: 60px;
-    background-color: pink;
+    /*background-color: pink;*/
   }
   .center {
     flex: 1;
-    background-color: pink;
+    /*background-color: pink;*/
   }
 </style>
